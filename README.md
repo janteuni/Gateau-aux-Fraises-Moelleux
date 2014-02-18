@@ -1,6 +1,8 @@
 Gateau-aux-Fraises-Moelleux
 ===========================
 
+![Alt text](/gateau-aux-fraises-moelleux.jpg "Optional title")
+
 Jasmine
 -------
 
